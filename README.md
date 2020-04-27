@@ -12,6 +12,7 @@ This is my contribution
 
 # About Me
 |*Name*|Lina|
+|---|---|
 |*Birthday*|February 12th, 2002|
 |*Grade*|12th|
 |*Favorite Movie*|Don't have one|
